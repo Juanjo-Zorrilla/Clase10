@@ -1,0 +1,7 @@
+print("hola Analitica noviembre")
+print("hola mundo")
+print("hola mundo")
+print("hola mundo")
+print("hola mundo")
+print("hola mundo")
+print("hola mundo")
